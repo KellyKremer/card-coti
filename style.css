@@ -1,0 +1,44 @@
+body{
+    background: #003366;
+    margin:0;
+    font-family: "Inter", sans-serif;
+  
+
+div{
+    width: 800px;
+    height: 400px;
+    background-color: #FFFFFF;
+
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border-radius: 10px ;
+    padding: 30px;
+    box-sizing: border-box; 
+    text-align: left;
+}
+  
+img{
+    margin-bottom: 30px;}
+
+h1{
+    color: #333333;
+    margin: 0;
+}
+
+p{
+    color: #666666;  
+}
+
+a{
+    display: block;
+    color:#003366;
+    margin-bottom: 5px;
+    padding: 10px 0
+   
+
+}
+
+
+
